@@ -1,4 +1,3 @@
-### 👋
 # Manuel Lus
 <p>.- Tecnico Químico AgroIndustrial</p>
 <p>.- Tecnico En Administración y Gestión de la Cultura</p>
@@ -16,3 +15,6 @@
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+## Stars
+![GitHub Org's stars](https://img.shields.io/github/stars/manuellus7?style=social)
