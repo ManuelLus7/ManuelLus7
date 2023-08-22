@@ -1,11 +1,11 @@
 ### 👋
 **ManuelLus7/ManuelLus7** 
 
-<p>.- Tecnico Químico AgroIndustrial</p>p>
-<p>.- Tecnico En Administración y Gestión de la Cultura</p>p>
-<p>.- Especializado en Conservación de Documentos Históricos</p>p>
-<p>.- Diplomado en Patrimonio Cultural</p>p>
-<p>.- Productor Asesor de Seguros MP 97070</p>p>
+<p>.- Tecnico Químico AgroIndustrial</p>
+<p>.- Tecnico En Administración y Gestión de la Cultura</p>
+<p>.- Especializado en Conservación de Documentos Históricos</p>
+<p>.- Diplomado en Patrimonio Cultural</p>
+<p>.- Productor Asesor de Seguros MP 97070</p>
 
 <br />
 
